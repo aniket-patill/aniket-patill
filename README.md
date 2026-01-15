@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 <h3 align="center">Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-patill&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-patill" /> </p>
-
 - 🔭 I’m currently working on [CodeRev-AI](https://code-rev-ai-compiler.vercel.app/)
 
 - 🌱 I’m currently learning **SpringBoot and NextJS frameworks**
